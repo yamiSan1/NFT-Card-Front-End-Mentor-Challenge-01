@@ -11,6 +11,7 @@ body{
     background-color: hsl(217, 54%, 11%);
     color: hsl(215, 51%, 70%);
     display: flex;
+    height: 100%
     align-items: center;
     justify-content: center;
 }
