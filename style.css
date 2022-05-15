@@ -17,7 +17,6 @@ body{
 .container{
     width: 100%;
     display: block;
-    padding:150px 0px;
 }
 .card{
     width: 350px;
@@ -26,7 +25,7 @@ body{
     border-radius: 10px;
     padding: 25px;
     display:block;
-    margin:auto;
+    margin:150px auto;
 }
 
 .img-nft #img{
