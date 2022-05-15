@@ -10,15 +10,14 @@ body{
     font-size: 18px;
     background-color: hsl(217, 54%, 11%);
     color: hsl(215, 51%, 70%);
+    display: flex;
+    align-items: center;
 }
 .container{
     width: 100%;
-    position: absolute;
-    top: 150px;
-
 }
 .card{
-    width: 400px;
+    width: 350px;
     height: auto;
     background-color: hsl(216, 50%, 16%);
     border-radius: 10px;
@@ -85,7 +84,7 @@ figure{
     align-items: center;
 }
 .price img{
-    width: 10px;
+    width: 15px;
     height: auto;
     margin-right: 5px;
 }
@@ -96,7 +95,7 @@ figure{
     font-weight: 600;
 }
 .duration img{
-    width: 13px;
+    width: 15px;
     height: auto;
     margin-right: 5px;
 }
