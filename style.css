@@ -28,6 +28,7 @@ body{
     padding: 25px;
     display:block;
     margin: auto;
+    position: absolute;
 }
 
 .img-nft #img{
@@ -122,5 +123,5 @@ figure{
 }
 
 
-.attribution { font-size: 11px; text-align: center; position: absolute; width: 100%;}
+.attribution { font-size: 11px; text-align: center; width: 100%;}
 .attribution a { color: hsl(228, 45%, 44%); }
