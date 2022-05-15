@@ -17,6 +17,7 @@ body{
 .container{
     width: 100%;
     display: block;
+    padding:150px 0px;
 }
 .card{
     width: 350px;
