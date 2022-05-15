@@ -14,7 +14,7 @@ body{
     align-items: center;
 }
 .container{
-    width: 100%;
+    width: 100vw;
     min-height:100vh;
 }
 .card{
@@ -96,8 +96,8 @@ figure{
     font-weight: 600;
 }
 .duration img{
-    width: 15px;
-    height: auto;
+    width: 20px;
+    height: 20px;
     margin-right: 5px;
 }
 .card-footer{
