@@ -12,10 +12,12 @@ body{
     color: hsl(215, 51%, 70%);
     display: flex;
     align-items: center;
+    justify-content:center;
+    min-height:100vh;
 }
 .container{
     width: 100vw;
-    min-height:100vh;
+    height: auto;
 }
 .card{
     width: 350px;
@@ -25,6 +27,7 @@ body{
     padding: 25px;
     display: block;
     margin: auto;
+    position: relative;
 }
 
 .img-nft #img{
@@ -119,5 +122,5 @@ figure{
 }
 
 
-.attribution { font-size: 11px; text-align: center; position:absolute; bottom:10px; width: 100%;}
+.attribution { font-size: 11px; text-align: center; position:absolute; bottom:10px; width: 100%; height:auto;}
 .attribution a { color: hsl(228, 45%, 44%); }
